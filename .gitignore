@@ -1,6 +1,5 @@
 bazel-*
 target/
-.vscode/
 .idea/
 .zed
 .cache
@@ -23,3 +22,5 @@ rust-project.json
 darwin.bazelrc
 nativelink.bazelrc
 integration_tests/**/*.log
+config.bat
+node_modules
